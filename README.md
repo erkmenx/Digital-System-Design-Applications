@@ -52,3 +52,5 @@ Somurtkan Şirin includes 3 different FSM application. Report could explain the 
 Müzisyen Şirin includes 2D Convolution with Multiply and Accumulate application.
 
 Şirin Baba includes image processing application with 2D Convolution using MAC.
+
+Gargamel includes A/B operation challange with limited ALU. 2 different method used. 
