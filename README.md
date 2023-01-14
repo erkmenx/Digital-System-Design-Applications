@@ -48,3 +48,7 @@ Sliding Leds Application,
 SR Latch modules
 
 Somurtkan Şirin includes 3 different FSM application. Report could explain the application.
+
+Müzisyen Şirin includes 2D Convolution with Multiply and Accumulate application.
+
+Şirin Baba includes image processing application with 2D Convolution using MAC.
