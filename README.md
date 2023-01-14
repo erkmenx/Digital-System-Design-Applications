@@ -37,4 +37,14 @@ Parametrized ripple carry adder,
 Carry Look-Ahead Adder,
 Adder/Substractor with overflow output V, modules
 
+Tembel Şirin includes:
+8 Bit Register,
+8 Bit Register with Reset,
+Block RAM Application,
+D-FlipFlop structural,
+D-FlipFlop Behavioral,
+Master - Slave DFlipFlop,
+Sliding Leds Application,
+SR Latch modules
 
+Somurtkan Şirin includes 3 different FSM application. Report could explain the application.
