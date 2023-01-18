@@ -2,7 +2,10 @@
 
 Contact : muhammederkmen@gmail.com
 
-Subdirectories named kind of different to obstruct cheating in the class EHB436, ITU.
+//---------------------------------------------------------------------------------------//
+// Subdirectories named kind of different to obstruct cheating in the class EHB436, ITU. //
+//---------------------------------------------------------------------------------------//
+
 
 Subdirectories and what is included in them:
 
